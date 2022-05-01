@@ -1,0 +1,15 @@
+/home/ppari/Repos/SortedMerge-CTCI-10.1/bin/Debug/net6.0/SortedMerge-CTCI-10.1
+/home/ppari/Repos/SortedMerge-CTCI-10.1/bin/Debug/net6.0/SortedMerge-CTCI-10.1.deps.json
+/home/ppari/Repos/SortedMerge-CTCI-10.1/bin/Debug/net6.0/SortedMerge-CTCI-10.1.runtimeconfig.json
+/home/ppari/Repos/SortedMerge-CTCI-10.1/bin/Debug/net6.0/SortedMerge-CTCI-10.1.dll
+/home/ppari/Repos/SortedMerge-CTCI-10.1/bin/Debug/net6.0/SortedMerge-CTCI-10.1.pdb
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.csproj.AssemblyReference.cache
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.AssemblyInfoInputs.cache
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.AssemblyInfo.cs
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.csproj.CoreCompileInputs.cache
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.dll
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/refint/SortedMerge-CTCI-10.1.dll
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.pdb
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/SortedMerge-CTCI-10.1.genruntimeconfig.cache
+/home/ppari/Repos/SortedMerge-CTCI-10.1/obj/Debug/net6.0/ref/SortedMerge-CTCI-10.1.dll
