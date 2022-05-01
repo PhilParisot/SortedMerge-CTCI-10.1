@@ -1,25 +1,32 @@
 ﻿
 
 
-var result = SortedMerge(new List<int> { 16, 17  }, new int[] { 2, 3, 5, 6, 9, 9, 10 });
+var result = SortedMerge(new List<int> { 9, 9, 10 }, new int[] { 1, 2, 3 });
 System.Console.WriteLine();                         // 1 2 3 4 5 6 6 7 9 9
 
 static int[] SortedMerge(List<int> A, int[] B)
 {
     int IndexA = 0;
-    foreach (int i in B)
+    for (int i = 0; i < B.Length; i++)
     {
-        if (IndexA > A.Count - 1)
-            A.Add(i);
+        while (A[IndexA] < B[i])
+        {
+            IndexA++;
+            if (IndexA > A.Count - 1)
+            {
+                break;
+            }
+        }
+        if (IndexA < A.Count)
+        {
+            A.Insert(IndexA, B[i]);
+            IndexA++;
+        }
         else
         {
-            while (A[IndexA] < i)
-            {
-                IndexA++;
-                if (IndexA > A.Count - 1) break;
-            }
-            A.Insert(IndexA, i);
-            IndexA++;
+
+            A.AddRange(B[i..]);
+            break;
         }
     }
     return A.ToArray();
